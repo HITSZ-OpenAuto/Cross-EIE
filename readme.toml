@@ -21,3 +21,24 @@ content = """
 开卷考试，打印资料就能过。
 """
 author = { name = "IcyDesert", link = "https://github.com/IcyDesert", date = "2026-01" }
+
+[[courses]]
+name = "氢能与燃料电池"
+
+[[courses.teachers]]
+name = "王夷飞"
+
+[[courses.teachers.reviews]]
+content = "王夷飞老师非常好，允许不去上课，考勤给满分，考核要求是写一篇小论文，给分也很高。"
+author = { name = "海边的星空", link = "", date = "2025-01" }
+
+[[courses.sections]]
+title = "考查方式更新"
+
+[[courses.sections.items]]
+content = "25秋，该课程的课程大纲中增添了闭卷考试，但在实际上课时，仍然遵循无考试，只写一篇小论文的考察方式。"
+author = { name = "jiazero", link = "https://github.com/jiazero", date = "2025-12" }
+
+[[courses.sections.items]]
+content = "这门课非常好，老师上课讲课很有意思，平时也不考勤，只需要在期末交一篇小论文即可，唯一的缺点就是这门课只有1.5学分（这意味着你后面得专门找有0.5学分的课程来补）"
+author = { name = "lsx", link = "", date = "2026-06" }
