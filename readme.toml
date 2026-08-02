@@ -42,3 +42,26 @@ author = { name = "jiazero", link = "https://github.com/jiazero", date = "2025-1
 [[courses.sections.items]]
 content = "这门课非常好，老师上课讲课很有意思，平时也不考勤，只需要在期末交一篇小论文即可，唯一的缺点就是这门课只有1.5学分（这意味着你后面得专门找有0.5学分的课程来补）"
 author = { name = "lsx", link = "", date = "2026-06" }
+
+[[courses]]
+name = "光计算概论"
+
+[[courses.teachers]]
+name = "黄灿"
+
+[[courses.teachers.reviews]]
+content = "一名年轻教师，人很好，有些课还会给学生发东西吃，课堂氛围轻松愉快。"
+
+[[courses.sections]]
+title = "课程概况"
+
+[[courses.sections.items]]
+content = """
+- 没有考勤，老师说想来就来，也会考虑部分学生小长假归心似箭的想法而允许先回家，非常人性化。
+- 没有作业，2025秋课程考核就是一篇与光计算领域相关的论文，难度不高，网上有很多素材可供参考。
+- 给分包括平时分和论文分，分数普遍较高，没看到几个低于 80 分的。
+"""
+author = [
+  { name = "Kyn", link = "https://github.com/dicnYue", date = "" },
+  { name = "2026.08", link = "", date = "" },
+]
